@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chongcang715.github.io</id>
     <title>珫苍</title>
-    <updated>2020-07-16T08:10:26.565Z</updated>
+    <updated>2020-07-16T15:33:07.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chongcang715.github.io"/>
     <link rel="self" href="https://chongcang715.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://chongcang715.github.io/images/avatar.png</logo>
     <icon>https://chongcang715.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 珫苍</rights>
+    <entry>
+        <title type="html"><![CDATA[补档目录]]></title>
+        <id>https://chongcang715.github.io/post/bdml/</id>
+        <link href="https://chongcang715.github.io/post/bdml/">
+        </link>
+        <updated>2020-07-16T15:02:23.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color='#669900' size=5> 补档目录</font><br>
+有的我自己也忘了...欢迎留言<br>
+<br></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color='#669900' size=5> 补档目录</font><br>
+有的我自己也忘了...欢迎留言<br>
+<br></p>
+<!-- more -->
+<h2 id="k礼猿">K|礼猿</h2>
+<h3 id="原作二期后日常">原作(二期后)日常</h3>
+<blockquote>
+<p>《所谓探病一叙》<br><br>
+《天台告白大会》<br><br>
+🌙《起飞的夜晚与坠落的神明》</p>
+</blockquote>
+<h3 id="原作相关假想">原作相关假想</h3>
+<blockquote>
+<p>《浮梦之秋》<br><br>
+《星花火（下）》</p>
+</blockquote>
+<h3 id="paro">PARO</h3>
+<hr>
+<h2 id="pot忍迹">POT|忍迹</h2>
+<p>《心潮》</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【礼猿】天台告白大会]]></title>
         <id>https://chongcang715.github.io/post/li-yuan-tian-tai-gao-bai-da-hui/</id>
