@@ -132,14 +132,21 @@
 
             
 
-
-
-
           </div>
 
         </div>
       </div>
     </div>
+
+    <div class="comment"></div>
+    <script>
+        new Valine({
+            el: '.comment',
+            appId: 'naCXkukNep1re8W3TeQHva8y-gzGzoHsz',
+            appKey: 'JCtQVoJkUJrpPvgHVigYi6VP'
+            placeholder: '评论留言'
+        });
+    </script>   
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script type="application/javascript">
@@ -161,15 +168,5 @@ var app = new Vue({
 
 <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 
-    <!--载入js，在</body>之前插入即可-->
-    <div class="comment"></div>
-        <script>
-            new Valine({
-                el: '.comment',
-                appId: 'naCXkukNep1re8W3TeQHva8y-gzGzoHsz',
-                appKey: 'JCtQVoJkUJrpPvgHVigYi6VP'
-                placeholder: '评论留言'
-            });
-        </script>    
   </body>
 </html>
