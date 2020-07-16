@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://chongcang715.github.io/favicon.ico?v=1594832448156">
+<link rel="shortcut icon" href="https://chongcang715.github.io/favicon.ico?v=1594871834612">
 <link rel="stylesheet" href="https://chongcang715.github.io/styles/main.css">
 
 
@@ -17,6 +17,8 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
+
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 
     <meta name="description" content="
 个人简介  欢迎来到我的小站呀，很高兴遇见你！🤝
@@ -38,7 +40,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://chongcang715.github.io">
-        <img src="https://chongcang715.github.io/images/avatar.png?v=1594832448156" class="site-logo">
+        <img src="https://chongcang715.github.io/images/avatar.png?v=1594871834612" class="site-logo">
         <h1 class="site-title">珫苍</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -88,7 +90,7 @@
       
     </div>
     <div class="site-description">
-      存档 避难 
+      存档用个人博客
     </div>
     <div class="site-footer">
       Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://chongcang715.github.io/atom.xml" target="_blank">RSS</a>
@@ -129,6 +131,17 @@
             
 
             
+
+
+            <div id="vcomments"></div>
+                <script>
+                    new Valine({
+                        el: '#vcomments',
+                        appId: 'naCXkukNep1re8W3TeQHva8y-gzGzoHsz',
+                        appKey: 'JCtQVoJkUJrpPvgHVigYi6VP'
+                    })
+                </script>
+
 
           </div>
 
