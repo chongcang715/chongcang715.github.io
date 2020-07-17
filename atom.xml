@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chongcang715.github.io</id>
     <title>珫苍</title>
-    <updated>2020-07-17T16:29:42.369Z</updated>
+    <updated>2020-07-17T16:31:56.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chongcang715.github.io"/>
     <link rel="self" href="https://chongcang715.github.io/atom.xml"/>
@@ -263,11 +263,11 @@
         <link href="https://chongcang715.github.io/post/bdml/">
         </link>
         <updated>2020-07-16T15:02:23.000Z</updated>
-        <summary type="html"><![CDATA[<p><font color='#88c488' size=4> 一个记录</font><br>
+        <summary type="html"><![CDATA[<p><font color='#88c488' size=4> 一个进行中的记录</font><br>
 有的我自己也忘了...欢迎留言<br>
 <br></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><font color='#88c488' size=4> 一个记录</font><br>
+        <content type="html"><![CDATA[<p><font color='#88c488' size=4> 一个进行中的记录</font><br>
 有的我自己也忘了...欢迎留言<br>
 <br></p>
 <!-- more -->
@@ -281,7 +281,9 @@
 <h3 id="原作相关假想">原作相关假想</h3>
 <blockquote>
 <p>《浮梦之秋》<br><br>
-《星花火（下）》</p>
+《星花火（上）》<br><br>
+《星花火（下）》<br><br>
+《未曾察觉》</p>
 </blockquote>
 <h3 id="paro">PARO</h3>
 <blockquote>
@@ -289,7 +291,9 @@
 </blockquote>
 <hr>
 <h2 id="pot忍迹">POT|忍迹</h2>
+<blockquote>
 <p>《心潮》</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
