@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chongcang715.github.io</id>
     <title>珫苍</title>
-    <updated>2020-07-19T06:51:07.250Z</updated>
+    <updated>2020-07-19T06:55:29.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chongcang715.github.io"/>
     <link rel="self" href="https://chongcang715.github.io/atom.xml"/>
@@ -107,7 +107,7 @@
 <p>*游戏世界，双结局</p>
 <!-- more -->
  <br>
-<p>#Chapter 1 Setup</p>
+<h1 id="chapter-1-setup">Chapter 1 Setup</h1>
 <p><em>LOADING………………</em></p>
 <p><strong>缸中世界</strong></p>
 <p>——你是谁，从哪里来，又将前往何处。</p>
